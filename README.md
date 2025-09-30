@@ -50,5 +50,4 @@ nyc-taxi-analysis/
 | └── Volume_vs_Rentabilité_par_borough_PU.png
 |
 ├── README.md                                           # Présentation du projet
-├── requirements.txt                                    # Librairies nécessaires
-└── .gitignore                                          # Exclusion de data/checkpoints
+└── requirements.txt                                    # Librairies nécessaires
